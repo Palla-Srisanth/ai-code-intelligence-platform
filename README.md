@@ -39,11 +39,13 @@ The system extracts repository information, identifies technologies used, explai
 
 ---
 
-# 📸 Project Demo
+![Home Page](assets/home-page.png)
 
-## Home Interface
+![Repository Analysis](assets/analysis-progress.png)
 
-Paste any GitHub repository URL for analysis.
+![Project Report](assets/project-report.png)
+
+![Ask About Project](assets/ask-about-project.png)
 
 ## AI Analysis Output
 
